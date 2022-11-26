@@ -1,0 +1,34 @@
+h1{
+    color: #6a994e;
+    text-align: center;
+}
+
+.BG1{
+    background-color: #dde5b6;
+}
+
+h2{
+    background-color: #a7c957;
+}
+
+p{
+    background-color: #6cc957;
+}
+
+h3{
+    background-color: #46db3e;
+}
+
+.card{
+    width: 100%;
+    background-color: #dde5b6;
+    text-align: center;
+}
+
+body{
+    border-style: solid;
+}
+
+#dish-name{
+    color: white;
+}
